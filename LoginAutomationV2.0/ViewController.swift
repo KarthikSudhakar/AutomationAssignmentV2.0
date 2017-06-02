@@ -21,7 +21,7 @@ class ViewController: NSViewController {
     func newWebDriver()
     {
         
-        let url = URL(string: "https://yearinmusic.spotify.com/404")!
+        let url = URL(string: "https://developer.apple.com")!
         let name="\(url)"
         //Use "https://yearinmusic.spotify.com/404" to try with a non available URL"
         
